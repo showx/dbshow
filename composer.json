@@ -2,6 +2,8 @@
     "require": {
         "doctrine/orm": "^2.19",
         "doctrine/migrations": "^3.5",
-        "doctrine/annotations": "^2.0"
+        "doctrine/annotations": "^1.0",
+        "symfony/cache": "^6.0",
+        "symfony/yaml": "^6.0"
     }
 }
